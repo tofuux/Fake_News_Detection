@@ -2,7 +2,7 @@
 
 This project implements a Deep Learning model to classify news articles as fake or real using an LSTM (Long Short-Term Memory) neural network.
 The model predicts the probability of a news article being fake and achieves decent performance on validation data.
-# ---
+# 
 
 ## Project Overview
 ---
